@@ -8,9 +8,9 @@ The absence robust and generalized path planner has been one of the greatest hin
 ### Our Environment:
 We selected a seemingly simple grid-world to first check the feasibility of our approach.Our need was rightly satisfied by a third party Gym environment named “MiniGrid”.
 
-
+<p align="center">
    ![Empty_Grid](https://github.com/lok-i/DRLPathPlanner/blob/master/empty-env.png)
-
+</p>
    ![Dynamic Obstacle Environment](https://github.com/lok-i/DRLPathPlanner/blob/master/dynamic_obstacles.gif)
 
 ## On Going work:
