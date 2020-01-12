@@ -6,7 +6,8 @@ The absence robust and generalized path planner has been one of the greatest hin
 
 ## A Brief Overview:
 ### Our Environment:
-We selected a seemingly simple grid-world to first check the feasibility of our approach.Our need was rightly satisfied by a third party Gym environment named “MiniGrid”
+We selected a seemingly simple grid-world to first check the feasibility of our approach.Our need was rightly satisfied by a third party Gym environment named “MiniGrid”.
+![Empty_Grid](https://github.com/lok-i/DRLPathPlanner/blob/master/empty-env.png)
 
 
 ## On Going work:
