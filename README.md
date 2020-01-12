@@ -6,4 +6,10 @@ The absence robust and generalized path planner has been one of the greatest hin
 
 ## A Brief Overview:
 ### Our Environment:
-         We selected a seemingly simple grid-world to first check the feasibility of our approach.Our need was rightly satisfied by a third party Gym environment named “MiniGrid”
+We selected a seemingly simple grid-world to first check the feasibility of our approach.Our need was rightly satisfied by a third party Gym environment named “MiniGrid”
+
+
+## On Going work:
+* The overall problem was divided into subtasks and were solved by individual Deep Q-Networks.
+* Experimenting with applying a hierarchical structure to the sub tasks and combine with Hierarhial Reinforcement       Learning.
+* Also simulataneously developing Evolutionary Strategy based solution so as to solve the above propbelm from a         Evolutionary Reinforcement Learning based approach
