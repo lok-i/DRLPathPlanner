@@ -9,9 +9,9 @@ The absence robust and generalized path planner has been one of the greatest hin
 We selected a seemingly simple grid-world to first check the feasibility of our approach.Our need was rightly satisfied by a third party Gym environment named “MiniGrid”.
 
 
-![Empty_Grid](https://github.com/lok-i/DRLPathPlanner/blob/master/empty-env.png)
+   ![Empty_Grid](https://github.com/lok-i/DRLPathPlanner/blob/master/empty-env.png)
 
-![Dynamic Obstacle Environment](https://github.com/lok-i/DRLPathPlanner/blob/master/dynamic_obstacles.gif)
+   ![Dynamic Obstacle Environment](https://github.com/lok-i/DRLPathPlanner/blob/master/dynamic_obstacles.gif)
 
 ## On Going work:
 * The overall problem was divided into subtasks and were solved by individual Deep Q-Networks.
