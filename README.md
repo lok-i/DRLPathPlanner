@@ -11,10 +11,7 @@ We selected a seemingly simple grid-world to first check the feasibility of our 
 
 <p align="center">
    <img width="278" height="301" src="https://github.com/lok-i/DRLPathPlanner/blob/master/empty-env.png">
-   <img width="400" height="480" src="https://github.com/lok-i/DRLPathPlanner/blob/master/dynamic_obstacles.gif">
- </p>
- </p>
-
+</p>
 <p align="center">
    <img width="400" height="480" src="https://github.com/lok-i/DRLPathPlanner/blob/master/dynamic_obstacles.gif">
  </p>
