@@ -19,4 +19,4 @@ We selected a seemingly simple grid-world to first check the feasibility of our 
 ## On Going work:
 * The overall problem was divided into subtasks and were solved by individual Deep Q-Networks.
 * Experimenting with applying a hierarchical structure to the sub tasks and combine with Hierarhial Reinforcement       Learning.
-* Also simulataneously developing Evolutionary Strategy based solution so as to solve the above propbelm from a         Evolutionary Reinforcement Learning based approach.
+* Also simulataneously developing Evolutionary Strategy based solution so as to solve the above probelm from a         Evolutionary Reinforcement Learning based approach.
